@@ -1,4 +1,4 @@
-#MUGHAL XD
+# MUGHAL_XD
 
 pkg update
 
